@@ -444,7 +444,7 @@ var resizePizzas = function(size) {
 
     return dx;
     
-  }
+  };
 
   // Iterates through pizza elements on the page and changes their widths
 
