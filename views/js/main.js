@@ -538,4 +538,4 @@ document.addEventListener('DOMContentLoaded', function() {
   items = document.getElementsByClassName('mover');
   updatePositions();
 });
-        };
+        }
